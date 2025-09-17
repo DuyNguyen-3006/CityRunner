@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 441332e713703ba49814354ab76a433a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316858
+  packageName: '[FW]2D Animated Cute Girl Full & SD Character'
+  packageVersion: 1.0
+  assetPath: Assets/FW_MIHO/AniManagers.cs
+  uploadId: 751794
