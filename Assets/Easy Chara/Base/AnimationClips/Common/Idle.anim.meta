@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f1bd7324a6ccdf4a9abf3a4e7595552
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313655
+  packageName: "Easy Chara \u2013 Hisa 2D Character Pack"
+  packageVersion: 1.2
+  assetPath: Assets/Easy Chara/Base/AnimationClips/Common/Idle.anim
+  uploadId: 773057
