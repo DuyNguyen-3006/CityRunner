@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9286182970fc6754caf770ec58b19529
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313655
+  packageName: "Easy Chara \u2013 Hisa 2D Character Pack"
+  packageVersion: 1.2
+  assetPath: Assets/Easy Chara/Characters/Hisa/Animation/Hisa_AC_Main.controller
+  uploadId: 773057
