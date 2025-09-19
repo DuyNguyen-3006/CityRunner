@@ -41,14 +41,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: BackGround
-    uniqueID: 1760031291
+  - name: background
+    uniqueID: 1418752455
     locked: 0
-  - name: Road
-    uniqueID: 3044591927
-    locked: 0
-  - name: Player
-    uniqueID: 4011322779
+  - name: item
+    uniqueID: 1839115921
     locked: 0
   m_RenderingLayers:
   - Default
