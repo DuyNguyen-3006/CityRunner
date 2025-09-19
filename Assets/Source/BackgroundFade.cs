@@ -3,8 +3,7 @@ using UnityEngine;
 
 public class BackgroundFade : MonoBehaviour
 {
-    public SpriteRenderer dayBackground;    // nền ngày
-    public SpriteRenderer nightBackground;  // nền đêm
+    public SpriteRenderer[] background;    // nền ngày
 
     public float holdTime = 5f;             // thời gian hiển thị trước khi chuyển
     public float fadeDuration = 2f;         // thời gian fade dần
@@ -12,8 +11,8 @@ public class BackgroundFade : MonoBehaviour
     private void Start()
     {
         // Ban đầu: hiển thị Day
-        SetAlpha(dayBackground, 1f);
-        SetAlpha(nightBackground, 0f);
+        SetAlpha(background[0], 1f);
+        SetAlpha(background[1], 0f);
 
         // bắt đầu vòng lặp ngày đêm
         StartCoroutine(DayNightCycle());
@@ -27,13 +26,13 @@ public class BackgroundFade : MonoBehaviour
             yield return new WaitForSeconds(holdTime);
 
             // 2. Fade Day -> Night
-            yield return StartCoroutine(Fade(dayBackground, nightBackground));
+            yield return StartCoroutine(Fade(background[0], background[1]));
 
             // 3. Giữ Night
             yield return new WaitForSeconds(holdTime);
 
             // 4. Fade Night -> Day
-            yield return StartCoroutine(Fade(nightBackground, dayBackground));
+            yield return StartCoroutine(Fade(background[1], background[0]));
         }
     }
 
