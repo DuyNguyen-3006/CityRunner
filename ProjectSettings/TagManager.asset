@@ -13,7 +13,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
@@ -48,6 +48,9 @@ TagManager:
     locked: 0
   - name: item
     uniqueID: 1839115921
+    locked: 0
+  - name: player
+    uniqueID: 3624056575
     locked: 0
   m_RenderingLayers:
   - Default

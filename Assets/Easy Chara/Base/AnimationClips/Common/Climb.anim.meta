@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2963d920e2d4f9b4cb4e961a19868ac4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313655
+  packageName: "Easy Chara \u2013 Hisa 2D Character Pack"
+  packageVersion: 1.2
+  assetPath: Assets/Easy Chara/Base/AnimationClips/Common/Climb.anim
+  uploadId: 773057

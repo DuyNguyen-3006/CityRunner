@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b44b2e567234c324b8bcba305f6c673a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313655
+  packageName: "Easy Chara \u2013 Hisa 2D Character Pack"
+  packageVersion: 1.2
+  assetPath: Assets/Easy Chara/Base/AnimationClips/Common/Fall.anim
+  uploadId: 773057
