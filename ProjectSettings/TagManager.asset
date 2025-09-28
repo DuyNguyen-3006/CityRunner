@@ -6,11 +6,11 @@ TagManager:
   tags:
   - Obstacle
   - Food
+  - Item
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
   - Water
   - UI
   - Player
