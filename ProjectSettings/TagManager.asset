@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Obstacle
+  - Food
   layers:
   - Default
   - TransparentFX
@@ -12,7 +14,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - Ground
   - 
   - 
   - 
@@ -44,11 +46,17 @@ TagManager:
   - name: background
     uniqueID: 1418752455
     locked: 0
+  - name: player
+    uniqueID: 3624056575
+    locked: 0
+  - name: obstacle
+    uniqueID: 23925677
+    locked: 0
   - name: item
     uniqueID: 1839115921
     locked: 0
-  - name: player
-    uniqueID: 3624056575
+  - name: ui
+    uniqueID: 895710735
     locked: 0
   m_RenderingLayers:
   - Default
