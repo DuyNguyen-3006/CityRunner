@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: a8c4aed6fea7df44fa1629c9c2b99ef1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6795019306163009687
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_0"
+  - first:
+      213: -6347904979660013653
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_1"
+  - first:
+      213: 7567913426404319569
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_2"
+  - first:
+      213: -3850963385926806170
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_3"
+  - first:
+      213: 7632512937686541781
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_4"
+  - first:
+      213: 4516464495011244959
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_5"
+  - first:
+      213: 7580105622834962364
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_6"
+  - first:
+      213: -8472626980434732932
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_7"
+  - first:
+      213: 2375114714768865823
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_8"
+  - first:
+      213: 668054719666391309
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_9"
+  - first:
+      213: 2232130328772964136
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_10"
+  - first:
+      213: -5761064251189409756
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_11"
+  - first:
+      213: 2032362525795511126
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_12"
+  - first:
+      213: -3161280738499449367
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_13"
+  - first:
+      213: -7307082427979126993
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_14"
+  - first:
+      213: -241100039854338802
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_15"
+  - first:
+      213: 707058739732745798
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_16"
+  - first:
+      213: 2755175363197355718
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_17"
+  - first:
+      213: -6317028885654751437
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_18"
+  - first:
+      213: 4798574915713747152
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_19"
+  - first:
+      213: -4305034719181690824
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_20"
+  - first:
+      213: 4841769534599190662
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_21"
+  - first:
+      213: 1255080038902350619
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_22"
+  - first:
+      213: -950688946969923819
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_23"
+  - first:
+      213: -422981881541513652
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_24"
+  - first:
+      213: -8540153285243533647
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_25"
+  - first:
+      213: -1647175009524775793
+    second: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_26"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_0"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 515
+        width: 347
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79874c1be02cc4e50800000000000000
+      internalID: 6795019306163009687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_1"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 428
+        width: 387
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf7e6bbd06b7e7a0800000000000000
+      internalID: -6347904979660013653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_2"
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 515
+        width: 347
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1512dbf2a21a60960800000000000000
+      internalID: 7567913426404319569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_3"
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 614
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6651cca2431ae8ac0800000000000000
+      internalID: -3850963385926806170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_4"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 612
+        width: 96
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5216af3122ce960800000000000000
+      internalID: 7632512937686541781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_5"
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 613
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2fc96784bdae30800000000000000
+      internalID: 4516464495011244959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_6"
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 748
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd40127e1f13960800000000000000
+      internalID: 7580105622834962364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_7"
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 612
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781cc4b6ae2b6a80800000000000000
+      internalID: -8472626980434732932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_8"
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 612
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af99acf3a16f020800000000000000
+      internalID: 2375114714768865823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_9"
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 612
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d090d306a38654900800000000000000
+      internalID: 668054719666391309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_10"
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 614
+        width: 27
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f63ea25be1afe10800000000000000
+      internalID: 2232130328772964136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_11"
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 612
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42847a346969c00b0800000000000000
+      internalID: -5761064251189409756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_12"
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 614
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b6bd403f6643c10800000000000000
+      internalID: 2032362525795511126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_13"
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 516
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda472eaefd024d0800000000000000
+      internalID: -3161280738499449367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 190
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f272ecf0f37089a90800000000000000
+      internalID: -7307082427979126993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_15"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 185
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d46298ac077acf0800000000000000
+      internalID: -241100039854338802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_16"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3
+        width: 182
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e0b197d2affc900800000000000000
+      internalID: 707058739732745798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_17"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6494135695c3620800000000000000
+      internalID: 2755175363197355718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_18"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337baa292b76558a0800000000000000
+      internalID: -6317028885654751437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_19"
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 4
+        width: 103
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c73f3676f79240800000000000000
+      internalID: 4798574915713747152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_20"
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 3
+        width: 202
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838a3716bb17144c0800000000000000
+      internalID: -4305034719181690824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_21"
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3
+        width: 194
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d71a2dbb613340800000000000000
+      internalID: 4841769534599190662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_22"
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 3
+        width: 201
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13457b45a0fa6110800000000000000
+      internalID: 1255080038902350619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_23"
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 0
+        width: 184
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa7ff80797ec2f0800000000000000
+      internalID: -950688946969923819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_24"
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 3
+        width: 103
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eaa444834412af0800000000000000
+      internalID: -422981881541513652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_25"
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4
+        width: 182
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b68ca1b5d74b7980800000000000000
+      internalID: -8540153285243533647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_26"
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 4
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8400625e0f0429e0800000000000000
+      internalID: -1647175009524775793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_0": 6795019306163009687
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_1": -6347904979660013653
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_10": 2232130328772964136
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_11": -5761064251189409756
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_12": 2032362525795511126
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_13": -3161280738499449367
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_14": -7307082427979126993
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_15": -241100039854338802
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_16": 707058739732745798
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_17": 2755175363197355718
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_18": -6317028885654751437
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_19": 4798574915713747152
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_2": 7567913426404319569
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_20": -4305034719181690824
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_21": 4841769534599190662
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_22": 1255080038902350619
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_23": -950688946969923819
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_24": -422981881541513652
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_25": -8540153285243533647
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_26": -1647175009524775793
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_3": -3850963385926806170
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_4": 7632512937686541781
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_5": 4516464495011244959
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_6": 7580105622834962364
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_7": -8472626980434732932
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_8": 2375114714768865823
+      "Logo_Tr\u01B0\u1EDDng_\u0110\u1EA1i_h\u1ECDc_FPT.svg_9": 668054719666391309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
