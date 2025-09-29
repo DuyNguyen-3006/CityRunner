@@ -41,10 +41,10 @@ public class GameManager : MonoBehaviour
     }
     public void RestartGame()
     {
-        isGameOver=false;
+        isGameOver = false;
         score = 0;
         UpdateScore();
-        Time.timeScale= 1;
+        Time.timeScale = 1;
         SceneManager.LoadScene("Game");
     }
     public bool IsGameOver()

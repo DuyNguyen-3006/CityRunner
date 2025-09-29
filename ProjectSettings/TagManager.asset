@@ -7,14 +7,18 @@ TagManager:
   - Obstacle
   - Food
   - Item
+  - Game OVer
+  - Main Menu
+  - How to play
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
   - Water
+  - Water
   - UI
-  - Player
   - Ground
+  - 
   - 
   - 
   - 

@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 43501859}
   m_Layer: 0
   m_Name: Main Camera
-  m_TagString: MainCamera
+  m_TagString: How to play
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -438,6 +438,7 @@ GameObject:
   - component: {fileID: 1214668241}
   - component: {fileID: 1214668240}
   - component: {fileID: 1214668239}
+  - component: {fileID: 1214668242}
   m_Layer: 5
   m_Name: Return Main Menu
   m_TagString: Untagged
@@ -461,7 +462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -371.96622, y: 207.1}
+  m_AnchoredPosition: {x: -899, y: 484.8}
   m_SizeDelta: {x: 79.5132, y: 43.1209}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1214668239
@@ -558,6 +559,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214668237}
   m_CullTransparentMesh: 1
+--- !u!114 &1214668242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1214668237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa72a4b22523e3449e99cbc534a7039, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HowToPlay
 --- !u!1 &1317564243
 GameObject:
   m_ObjectHideFlags: 0
