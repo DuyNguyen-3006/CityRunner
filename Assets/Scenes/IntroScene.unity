@@ -693,10 +693,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "SE180056 - L\xEA Ph\xFAc H\u1EADu\r\nSE180108 - V\xF5 Hu\u1EF3nh Tu\u1EA5n
-    \u0110an \r\nSE183064 - Tr\u1EA7n Trung Hi\u1EBFu \r\nSE183068 - Kim Ng\u1ECDc
-    Minh T\xE2m\r\nSE183202 - Hu\u1EF3nh Vi\u1EC7t Khoa  \r\nSE184821 - Nguy\u1EC5n
-    Ph\xFAc Duy"
+  m_text: "SE180056 - Le Phuc Hau \r\nSE180108 - Vo Huynh Tuan Dan \r\nSE183064 -
+    Tran Trung Hieu \r\nSE183068 - Kim Ngoc Minh Tam\r\nSE183202 - Huynh Viet Khoa 
+    \r\nSE184821 - Nguyen Phuc Duy"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
